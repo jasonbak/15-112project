@@ -1,9 +1,11 @@
-# 15-112 Project: Password Protection System
+# 15-112 Project: Password Security Proof of Concept
 
-This is an edited version of my final semester project for 15-112 Fundamentals of Programming and Computer Science at Carnegie Mellon University. [This
+PasswordProtect was my 15-112 Fundamentals of Programming and Computer Science term project. I had full control over whatever the heck I want to do, so I wanted to give machine learning a shot–the name initially piqued my interest. 
+
+A self-written feature vector recognizer to identify character glyphs drawn by users in Tkinter. Glyph-recognition algorithm based on the Greedy Point Match technique developed by Steven Stanek and Woodley Packard of UC Berkeley.
+
+[This
 video](https://www.youtube.com/watch?v=bNkPA50DM9E) explains what
-the project was about and what I did. Only preinstalled modules in Python were used. To run the program, all python files in this folder must be installed.
+the project was about and what I did. Only preinstalled modules in Python were used. 
 
-## Status
-
-The code is a mess, but I did learn a lot from working on this project. Perhaps, I’ll try a more mature implementation of this sort of program in the future!
+To run the program, all python files in this folder must be installed.
