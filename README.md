@@ -6,6 +6,6 @@ A self-written feature vector recognizer to identify character glyphs drawn by u
 
 [This
 video](https://www.youtube.com/watch?v=bNkPA50DM9E) explains what
-the project was about and what I did. Only preinstalled modules in Python were used. 
+the project was about and what I did. 
 
-To run the program, all python files in this folder must be installed.
+To run the program, all python files in this folder must be installed. Only preinstalled modules in Python were used. 
