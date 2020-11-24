@@ -1,4 +1,4 @@
-# 15-112 Project: Password Security Proof of Concept
+# 15-112 Project: Password Security Proof of Concept [Apr 2016] (Python)
 
 PasswordProtect was my 15-112 Fundamentals of Programming and Computer Science term project. I had full control over whatever the heck I want to do, so I wanted to give machine learning a shot–the name initially piqued my interest. 
 
