@@ -2,7 +2,7 @@
 
 PasswordProtect was my 15-112 Fundamentals of Programming and Computer Science term project. I had full control over whatever the heck I want to do, so I wanted to give machine learning a shot–the name initially piqued my interest. 
 
-A self-written feature vector recognizer to identify character glyphs drawn by users in Tkinter. Glyph-recognition algorithm based on the Greedy Point Match technique developed by Steven Stanek and Woodley Packard of UC Berkeley.
+A self-written feature vector recognizer to identify character glyphs drawn by users in Tkinter. Glyph-recognition algorithm based on the [Greedy Point Match technique developed by Steven Stanek and Woodley Packard of UC Berkeley](https://people.eecs.berkeley.edu/~fateman/msw/GreedyPointMatchWriteup.pdf).
 
 [This
 video](https://www.youtube.com/watch?v=bNkPA50DM9E) explains what
